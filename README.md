@@ -5,7 +5,7 @@
 ![Tools](https://img.shields.io/badge/Tools-Kali%20Purple-6A0DAD?style=for-the-badge&logo=kalilinux&logoColor=white&style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-DVWA-E74C3C?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Web_Security-2ECC71?style=flat-square)
-[LICENSE](LICENSE)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
