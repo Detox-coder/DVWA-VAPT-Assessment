@@ -1,3 +1,4 @@
+<div align="center">
 # **🔒 Vulnerability Assessment & Penetration Testing (VAPT) — DVWA**
 
 > A comprehensive web application penetration testing project demonstrating real-world vulnerability exploitation and security analysis
@@ -6,6 +7,8 @@
 ![Platform](https://img.shields.io/badge/Platform-DVWA-E74C3C?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Web_Security-2ECC71?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+</div>
 
 ---
 
